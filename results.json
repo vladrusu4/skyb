@@ -1,0 +1,78 @@
+[
+	{
+		"title": "Pirates of the Caribbean",
+		"slug": "pirates-caribbean",
+		"thumbnail": "pirates-caribbean.jpg",
+        "stars": "4"
+	},
+
+	{
+		"title": "Edward Scissorhands",
+		"slug": "edward-scissorhands",
+		"thumbnail": "edward-scissorhands.jpg",
+        "stars": "3"
+	},
+
+	{
+		"title": "Rango",
+		"slug": "rango",
+		"thumbnail": "rango.jpg",
+        "stars": "5"
+	},
+
+	{
+		"title": "Alice in Wonderland",
+		"slug": "alice-in-wonderland",
+		"thumbnail": "alice-in-wonderland.jpg",
+        "stars": "4"
+	},
+
+	{
+		"title": "Little Miss Sunshine",
+		"slug": "little-miss-sunshine",
+		"thumbnail": "little-miss-sunshine.jpg",
+        "stars": "4"
+	},
+
+	{
+		"title": "Sunshine",
+		"slug": "sunshine",
+		"thumbnail": "sunshine.jpg",
+        "stars": "5"
+	},
+
+	{
+		"title": "Sunshine State",
+		"slug": "sunshine-state",
+		"thumbnail": "sunshine-state.jpg",
+        "stars": "3"
+	},
+
+	{
+		"title": "Eternal Sunshine of the Spotless Mind",
+		"slug": "eternal-sunshine-spotless-mind",
+		"thumbnail": "eternal-sunshine-spotless-mind.jpg",
+        "stars": "3"
+	},
+
+	{
+		"title": "Sunshine and Oranges",
+		"slug": "sunshine-oranges",
+		"thumbnail": "sunshine-oranges.jpg",
+        "stars": "2"
+	},
+
+	{
+		"title": "Tears of the Sun",
+		"slug": "tears-sun",
+		"thumbnail": "tears-sun.jpg",
+        "stars": "4"
+	},
+
+	{
+		"title": "Rising Sun",
+		"slug": "rising-sun",
+		"thumbnail": "rising-sun.jpg",
+        "stars": "4"
+	}
+]
